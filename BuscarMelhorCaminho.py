@@ -36,7 +36,7 @@ def encontrar_melhor_caminho(arvore):
     return melhor_pontuacao
 
 # Carregar a árvore de um arquivo txt
-nome_arquivo = 'casoc30.txt'
+nome_arquivo = r'C:\Users\xbox3\Documents\Facul\ALEST2\Trab_Alest_II\casos-30\casos-30\casoc30.txt'
 arvore = carregar_arvore_de_txt(nome_arquivo)
 
 # Encontrar o melhor caminho
